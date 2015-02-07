@@ -1,0 +1,19 @@
+{
+  "name": "sharachan",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": "*",
+    "method-override": "*",
+    "errorhandler" : "*",
+    "jade": "*",
+    "stylus": "*",
+    "async": "*",
+    "formidable": "*",
+    "aws-sdk": "*"
+  }
+}
