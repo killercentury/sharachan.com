@@ -9,11 +9,14 @@
     "express": "4.x",
     "body-parser": "*",
     "method-override": "*",
-    "errorhandler" : "*",
+    "errorhandler": "*",
     "jade": "*",
     "stylus": "*",
     "async": "*",
-    "formidable": "*",
-    "aws-sdk": "*"
+    "formidable": "*"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.3.1"
   }
 }
