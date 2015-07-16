@@ -1,0 +1,5 @@
+.brackets.json
+.git
+.gitignore
+.jshintrc
+node_modules
